@@ -5,7 +5,7 @@ Aqui eu estudo conteúdos teóricos e práticos para desenvolver minhas habilida
 
 
 Antes de começar o curso de Lógica de Programação com JavaScript,
-adquiri um poco de conhecimentos básicos em HTML e CSS, 
+adquiri um poco de conhecimento básico em HTML e CSS, 
 além de uma noção de como funciona a internet. Esses conhecimentos que são fundamentais para o desenvolvimento dos meus projetos.
 
 O curso é dividido em módulos que cobrem os seguintes tópicos:
