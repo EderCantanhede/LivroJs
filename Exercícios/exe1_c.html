@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Exercício3</title>
+</head>
+<body>
+    <script>
+        const preco = Number(prompt("Informe o valor do produto: "))
+        const desconto = (10 / 100) * 60
+        const aVista = preco - desconto
+        const parcelado = preco / 3
+        alert(
+            `Preço R$${preco.toFixed(2)}
+             À Vista R$${aVista.toFixed()}
+             Ou 3x de R$${parcelado.toFixed(2)}`
+        )
+    </script>
+</body>
+</html>
